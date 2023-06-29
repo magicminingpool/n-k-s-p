@@ -20,9 +20,7 @@
   "_resolved": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git#c66ba109e7de88edc46dd70f36aa9c7cea7d7add",
   "_spec": "stratum-pool@git+https://github.com/RavenCommunity/kawpow-stratum-pool.git",
   "_where": "",
-  "author": {
-    "name": ""
-  },
+  "author": "",
   "bugs": {
     "url": "https://github.com/RavenCommunity/kawpow-stratum-pool/issues"
   },
