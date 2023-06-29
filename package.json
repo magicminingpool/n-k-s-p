@@ -33,7 +33,7 @@
     "async": "*",
     "base58-native": "*",
     "big-integer": "^1.6.48",
-    "bignum": "^0.13.1",
+    "bignum": "git+https://github.com/magicminingpool/node-bignum.git",
     "bitcoinjs-lib": "git+https://github.com/magicminingpool/n-b-l.git",
     "merkle-bitcoin": "git+https://github.com/magicminingpool/n-m-b.git",
     "promise": "*",
