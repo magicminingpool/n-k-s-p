@@ -21,7 +21,7 @@
   "_spec": "stratum-pool@git+https://github.com/RavenCommunity/kawpow-stratum-pool.git",
   "_where": "",
   "author": {
-    "name": "Traysi"
+    "name": ""
   },
   "bugs": {
     "url": "https://github.com/RavenCommunity/kawpow-stratum-pool/issues"
@@ -30,14 +30,14 @@
   "logger": "0.0.1"
   },
   "dependencies": {
-    "async": "*",
-    "base58-native": "*",
-    "big-integer": "^1.6.48",
+    "async": "^3.2.4",
+    "base58-native": "git+https://github.com/magicminingpool/node-base58.git",
+    "big-integer": "^1.6.51",
     "bignum": "git+https://github.com/magicminingpool/node-bignum.git",
     "bitcoinjs-lib": "git+https://github.com/magicminingpool/n-b-l.git",
     "merkle-bitcoin": "git+https://github.com/magicminingpool/n-m-b.git",
-    "promise": "*",
-    "sha3": "*"
+    "promise": "^8.3.0",
+    "sha3": "^2.1.4"
   },
   "deprecated": false,
   "description": "High performance Stratum poolserver in Node.js",
